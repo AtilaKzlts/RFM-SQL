@@ -9,7 +9,8 @@ In this project, we use the RFM (Recency, Frequency, Monetary) model to analyze 
 + Monetary (M): How much money a customer spends.
 
 By evaluating these metrics, we aim to determine customer value segments. These segments will be used to manage marketing campaigns, increase customer loyalty, and optimize sales strategies.
-
+## Exucitive Summ
+![image](https://github.com/AtilaKzlts/RFM-SQL/blob/main/assets/raports.png)
 
 ## Objective 
 + What are the dates with the most orders?
