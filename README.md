@@ -191,3 +191,6 @@ ORDER BY
 | 18074.0    | 2024-12-01 09:53:00    | 373     | 1         | 489.60   | Not Recent      | Low Frequency     | Medium Value     | At Risk          |
 | 17908.0    | 2024-12-01 11:45:00    | 373     | 1         | 243.28   | Not Recent      | Low Frequency     | Medium Value     | Hibernating      |
 | 12791.0    | 2024-12-01 11:27:00    | 373     | 1         | 192.60   | Not Recent      | Low Frequency     | Medium Value     | Lost             |
+
+
+### [**Return to Portfolio**](https://github.com/AtilaKzlts/Atilla-Portfolio)
