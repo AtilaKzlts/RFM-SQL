@@ -1,12 +1,12 @@
-<svg width="1396" height="1047" viewBox="0 0 1396 1047" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="1396" height="1047" fill="#F3F3F3"/>
-<rect x="751" y="566" width="641" height="481" fill="url(#pattern0_0_1)"/>
-<rect x="14" y="581" width="620" height="465" fill="url(#pattern1_0_1)"/>
-<rect x="10" y="15" width="639" height="545" fill="url(#pattern2_0_1)"/>
-<rect x="730" y="22" width="656" height="492" fill="url(#pattern3_0_1)"/>
-<path d="M704.5 82V990" stroke="black" stroke-opacity="0.33" stroke-width="2"/>
-<path d="M268 547H1172.2" stroke="black" stroke-opacity="0.33" stroke-width="2"/>
-<circle cx="704.5" cy="546.5" r="9.5" transform="rotate(1.62328 704.5 546.5)" fill="#8F8F8F"/>
+<svg width="1396" height="1051" viewBox="0 0 1396 1051" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect y="4" width="1396" height="1047" fill="#F3F3F3"/>
+<rect x="751" y="570" width="641" height="481" fill="url(#pattern0_0_1)"/>
+<rect x="11" y="574" width="620" height="465" fill="url(#pattern1_0_1)"/>
+<rect x="6" width="664" height="547" fill="url(#pattern2_0_1)"/>
+<rect x="730" y="26" width="656" height="492" fill="url(#pattern3_0_1)"/>
+<path d="M704.5 86V994" stroke="black" stroke-opacity="0.33" stroke-width="2"/>
+<path d="M268 551H1172.2" stroke="black" stroke-opacity="0.33" stroke-width="2"/>
+<circle cx="704.5" cy="550.5" r="9.5" transform="rotate(1.62328 704.5 550.5)" fill="#8F8F8F"/>
 <defs>
 <pattern id="pattern0_0_1" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_0_1" transform="matrix(0.00097707 0 0 0.00130208 -0.00026001 0)"/>
@@ -15,7 +15,7 @@
 <use xlink:href="#image1_0_1" transform="scale(0.000976562 0.00130208)"/>
 </pattern>
 <pattern id="pattern2_0_1" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image2_0_1" transform="matrix(0.000976562 0 0 0.001145 0 0.0603211)"/>
+<use xlink:href="#image2_0_1" transform="matrix(0.000976562 0 0 0.00118544 0 0.0447898)"/>
 </pattern>
 <pattern id="pattern3_0_1" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image3_0_1" transform="scale(0.000976562 0.00130208)"/>
