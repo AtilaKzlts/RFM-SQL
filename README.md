@@ -11,7 +11,7 @@ In this project, we use the RFM (Recency, Frequency, Monetary) model to analyze 
 By evaluating these metrics, we aim to determine customer value segments. These segments will be used to manage marketing campaigns, increase customer loyalty, and optimize sales strategies.
 ## Executive summary
 
-![image](https://github.com/AtilaKzlts/RFM-SQL/blob/main/assets/4.svg)
+![image](https://github.com/AtilaKzlts/RFM-SQL/blob/main/assets/graphs.svg)
 
 ## Objective 
 + What are the dates with the most orders?
